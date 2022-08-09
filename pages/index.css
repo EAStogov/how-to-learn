@@ -77,4 +77,5 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__social-icon/_media/footer__social-icon_media_telegram.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
